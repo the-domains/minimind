@@ -1,0 +1,28 @@
+name: Minimind
+favicon: null
+layout_spectrum: 0.07340650819242
+typography_spectrum: 0.44985402445308864
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7140140172559768
+  lightness: 0.6251914433669299
+  saturation: 0.2478243124205619
+  rhythmicContrast: 0.33042305475100875
+purpose: []
